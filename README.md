@@ -15,3 +15,4 @@ PeMaRa dibuat untuk mengatasi tantangan utama dalam pariwisata di Malang Raya, y
 https://pemara.vercel.app/
 
 # Website Preview
+![alt text](https://github.com/Candrasa6661/PEMARA/blob/main/public/images/Preview.jpg?raw=true)
