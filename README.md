@@ -11,6 +11,9 @@ PeMaRa dibuat untuk mengatasi tantangan utama dalam pariwisata di Malang Raya, y
 2.	(F2796XB201) – Alfiyah Indah Sari - Aktif
 3.	(F6396YB226) – Candrasa Asmaradanta – Aktif
 
+# User Guide
+https://docs.google.com/document/d/1FQ58prRHprO5e7g9K05CGpK_GeqQ4t4zsc4ind5mik4/edit
+
 # Deployed Link
 https://pemara.vercel.app/
 
