@@ -46,7 +46,8 @@ body {
 }
 
 .navbar {
-    background: #06c94a;
+    background: #FFF;
+    font-weight: bold;
 }
 
 .nav ul li a {
@@ -102,7 +103,7 @@ body {
     width: 100%;
     height: 350px;
     border-radius: 5px;
-    background-color: #5289dc;
+    background-color: #4C3BCF;
 }
 
 .wisata-box {
@@ -258,8 +259,8 @@ body {
     margin-bottom: 2px;
 }
 
-/* Lokasi */
-#lokasi {
+/* Peta */
+#peta {
     padding-top: 55px;
     /* background-color: #c0c4cc; */
     background-image: url(../images/bg-2.jpg);
@@ -269,7 +270,7 @@ body {
     height: 655px;
 }
 
-#lokasi h2, h5 {
+#peta h2, h5 {
     color: black;
     font-weight: 500;
     text-shadow: 2px 1px 2px white;
@@ -291,7 +292,7 @@ body {
     height: 150px;
     object-fit: cover;
     margin-bottom: 15px;
-    background: #ACCA1E;
+    background: #4B70F5;
 }
 .btn-green {
     background-color: green;
@@ -305,7 +306,7 @@ body {
 /* Kontak */
 #kontak {
     padding-top: 55px;
-    background-color: #329259;
+    background-color: #4B70F5;
 }
 
 #kontak #tentang a {
@@ -435,7 +436,7 @@ html {scroll-behavior:smooth;}
         margin-top: 190px;
     }
 
-    #wisata, #galeri, #lokasi, #kontak {
+    #wisata, #galeri, #peta, #kontak {
         padding-top: 10px;
     }
 
@@ -457,12 +458,12 @@ html {scroll-behavior:smooth;}
         opacity: 1;
     } */
 
-    #lokasi h2, h5 {
+    #peta h2, h5 {
         color: white;
         text-shadow: 2px 1px 2px black;
     }
 
-    #lokasi iframe {
+    #peta iframe {
         width: 300px;
         height: 225px;
     }
@@ -515,12 +516,12 @@ html {scroll-behavior:smooth;}
         text-shadow: 2px 1px 2px black;
     }
 
-    #lokasi h2, h5 {
+    #peta h2, h5 {
         color: white;
         text-shadow: 2px 1px 2px black;
     }
 
-    #lokasi iframe {
+    #peta iframe {
         width: 300px;
         height: 225px;
     }
